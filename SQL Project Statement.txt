@@ -1,0 +1,11 @@
+Write the query for following questions:-
+1. Print all the states which have at least one cancelled order.
+2. print productname wise quantity sold.
+3. Print customername and total amount paid, sort it by the customer who has paid the highest amount.
+4. Print productname of the products which has never been ordered.
+5. Print customername, their respective city total amount paid by them & number of payments made.
+6. Print city wise numbers of 'In Process' & 'On Hold' orders.
+7. Print all the customer's name who hasn't made payment but placed an order
+8. Customer name wise first order date, last order date, count of orders
+9. Check if all the customers who are from 'Madrid' has placed at least an order or not.
+10. Print total number of payments done in the year 2005 by the customers with order amount greater then 18000.
